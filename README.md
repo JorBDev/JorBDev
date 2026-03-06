@@ -42,35 +42,23 @@ public class JorBDev {
 
 <div align="center">
 
-### Backend & Desktop
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+**Backend & Desktop**
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,maven&theme=dark)](https://skillicons.dev)
 
-### Databases & Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Frontend**
 
-### AI & Integrations
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
-![Notion API](https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,tailwind&theme=dark)](https://skillicons.dev)
+
+**Databases & Infrastructure**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,docker&theme=dark)](https://skillicons.dev)
+
+**Tools & AI**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -132,6 +120,7 @@ Async queue system using BullMQ + Redis for distributing tasks without manual in
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=JorBDev&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=e5e7eb&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorBDev&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=e5e7eb&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=JorBDev" />
 
 </div>
 
