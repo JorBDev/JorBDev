@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,100:10b981&height=180&section=header&text=Jorge%20Botero&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descSize=18&descAlignY=58&descColor=a7f3d0&animation=fadeIn" />
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-porfolio--jorbdev.vercel.app-065f46?style=for-the-badge&labelColor=064e3b)](https://porfolio-jorbdev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-porfolio--jorbdev-065f46?style=for-the-badge&labelColor=064e3b)](https://porfolio-jorbdev.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jorgebdev-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorgebdev)
 [![Email](https://img.shields.io/badge/Email-jorgeboterodev%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeboterodev@gmail.com)
