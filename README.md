@@ -141,7 +141,7 @@ Async queue system using BullMQ + Redis for distributing tasks without manual in
 
 - 🏛️ **Ingeniería de Software** — Politécnico Grancolombiano (5 semesters, GPA 4.8/5.0, Excellence Scholarship)
 - 🔬 **4 Formative Research Projects (PIF)** during university
-- 📚 **Academic Monitor** (2022) — built internal Java + SQL tooling for the department
+- 📚 **Academic Monitor** (2022-2023) — built internal Java + SQL tooling for the department
 - 🧠 **Self-taught continuously** since 2018 — Udemy, Coursera, EDTeam, official docs
 
 ---
