@@ -114,18 +114,6 @@ Async queue system using BullMQ + Redis for distributing tasks without manual in
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JorBDev&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=e5e7eb&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorBDev&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=e5e7eb&langs_count=8" />
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JorBDev" />
-
-</div>
-
----
-
 ## 🎓 Background
 
 - 🏛️ **Ingeniería de Software** — Politécnico Grancolombiano (5 semesters, GPA 4.8/5.0, Excellence Scholarship)
